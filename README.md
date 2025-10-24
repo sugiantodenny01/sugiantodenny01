@@ -1,5 +1,4 @@
 # Hi there 👋
 Welcome to my GitHub profile! I'm currently utilizing GitLab for my experiments
 
-<img width="1787" alt="Screenshot 2024-06-05 at 10 08 54" src="https://github.com/sugiantodenny01/sugiantodenny01/assets/32387597/3d5f53ca-7ae3-4637-932b-f154c28f860a">
-
+<img width="1791" height="450" alt="dny" src="https://github.com/user-attachments/assets/1db1e325-b090-4721-a0b7-a149235ee63c" />
